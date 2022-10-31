@@ -30,7 +30,7 @@ section{
     min-height: 40vh;
 }
 .banner{
-background-image: url(/wel.gif);
+background-image: url(wel.gif);
 height: 20vw;
 min-height: 100px;
 background-repeat: no-repeat;
